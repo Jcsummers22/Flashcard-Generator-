@@ -1,0 +1,23 @@
+{
+  "name": "flaschard",
+  "version": "1.0.0",
+  "description": "creates open and cloze flashcards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcsummers22/Flashcard-Generator-.git"
+  },
+  "keywords": [
+    "node",
+    "flashcards"
+  ],
+  "author": "Jason Summers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcsummers22/Flashcard-Generator-/issues"
+  },
+  "homepage": "https://github.com/Jcsummers22/Flashcard-Generator-#readme"
+}
